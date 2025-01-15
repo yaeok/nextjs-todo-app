@@ -1,7 +1,7 @@
 'use client'
 
-import Link from 'next/link'
-import { useState } from 'react'
+import Link from 'next/link';
+import { useState } from 'react';
 
 const Page = () => {
   // todo配列を宣言
